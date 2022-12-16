@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDClientes", "FeedbackEleitor\CRUDClientes.csproj", "{EA16CC06-C8BB-48BA-9B31-138BA6B8524F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA16CC06-C8BB-48BA-9B31-138BA6B8524F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA16CC06-C8BB-48BA-9B31-138BA6B8524F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA16CC06-C8BB-48BA-9B31-138BA6B8524F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA16CC06-C8BB-48BA-9B31-138BA6B8524F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF40A787-3F4C-44F2-ACE7-339F29853EF5}
+	EndGlobalSection
+EndGlobal
